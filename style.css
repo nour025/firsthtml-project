@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.chopifex{
+    height: 100%;
+    width: 800px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(244, 243, 243);
+}
+img{
+    width:850px;
+    height: 400px;
+}
+
